@@ -1,16 +1,14 @@
 import requests
 import json
 import os
-
-def getTime():
-    pass
-
+import datetime
 
 if __name__ == '__main__':
     with open('channelList.json') as channelList:
         channels = json.load(channelList)
     #channels = {'Sky News': 'sky-news', 'Tiny Pop (Freeview) Today': 'tiny-pop-freeview'}
     baseurl = 'https://tv24.co.uk'
+    today = datetime.datetime.strftime(datetime.datetime.utcnow(), '%B %d')
     for channel in channels:
         ch_name = channels[channel]
         link, title, description = 'NA', 'NA', 'NA'
@@ -25,5 +23,5 @@ if __name__ == '__main__':
         if 'files' not in os.listdir():
             os.mkdir('files')
         with open(f'files/{ch_name}.txt', 'w') as writer:
-            writer.write(f'{description}')
+            writer.write(f'{channel}\nToday, {today}\n{description}')
         print(f'{channel}\t{description}')
