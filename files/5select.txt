@@ -1,2 +1,3 @@
 5SELECT
 Today, September 09
+New technology reveals hidden traces of the Japanese attack on Pearl Harbor..
