@@ -1,2 +1,3 @@
 5SELECT
 Today, September 09
+An American Airlines flight hurrying to make up lost time goes awry on landing and plummets into a nearby mountain. Only four passengers survive.
