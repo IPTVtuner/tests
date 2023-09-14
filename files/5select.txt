@@ -1,3 +1,3 @@
 5SELECT
 Today, September 14
-Four armourers must forge a damascus blade out of something familiar: plate armour. The remaining two armourers head back to their home forges to craft an exotic hybrid of pain and protection: the Hooded Katar.
+How British experimentation during WWI eventually led to the first purpose-built aircraft carrier.
