@@ -1,3 +1,2 @@
 5SELECT
 Today, September 17
-Entertainment programme.
