@@ -1,2 +1,3 @@
 5SELECT
 Today, September 18
+Shopping from home.
