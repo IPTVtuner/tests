@@ -1,3 +1,3 @@
 FailArmy
 Today, September 22
-Fails that may induce panic.
+Even with three strikes, they'll be out in one.
