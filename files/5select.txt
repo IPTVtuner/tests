@@ -1,2 +1,3 @@
 5SELECT
 Today, September 24
+An extravaganza telling the story of the nation's favourite quizzes and TV games, from the mayhem of `The Generation Game' to the thrill of `The Chase'.
