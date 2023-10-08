@@ -1,2 +1,3 @@
 5SELECT
 Today, October 08
+Susan and her camper van hit the road for a trip to the fabulous Yorkshire Valleys where she takes in York Minster, a teddy bear museum, a miniature steam train ride and Bettys café tea rooms.
