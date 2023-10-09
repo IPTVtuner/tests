@@ -1,2 +1,3 @@
 5SELECT
 Today, October 09
+Ben joins a couple at the start of their `new lives in the wild' in a two-room derelict farmhouse in rural Hungary that they bought from the internet without ever having visited the country before.
