@@ -1,2 +1,3 @@
 5SELECT
 Today, October 10
+Ben joins a couple who gave up successful careers as journalists in Europe for a new life as grizzly bear guides in a remote mountain valley lodge in Canada.
