@@ -1,3 +1,3 @@
 5SELECT
 Today, October 18
-Four smiths forge a canister Damascus blade.
+Four smiths get thrown into the mix when they must Frankenstein a blade from one knife and combine it with a different weapon's handle.
