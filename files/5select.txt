@@ -1,3 +1,3 @@
 5SELECT
-Today, October 23
-Four smiths get ready for the ultimate showdown when they are tasked with forging a camp knife out of steel harvested from a barbecue. Only two smiths advance to their home forges to recreate a pair of Frankish Throwing axes.
+Today, October 24
+Four smiths forge a canister Damascus blade.
