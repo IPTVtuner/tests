@@ -1,2 +1,3 @@
 5SELECT
 Today, October 27
+World-class bladesmiths recreate historical edged weapons in a cutthroat competition.
