@@ -1,3 +1,2 @@
 5SELECT
 Today, November 01
-The story of one of the most famous aircraft in history, filmed in colour during aerial combat. Memphis Belle was based at RAF Bassingbourn and flew 29 bombing missions over France and Germany.
