@@ -1,3 +1,2 @@
 5SELECT
 Today, November 01
-A Vizsla puppy has eaten a washing up sponge for the second time. Can Julian successfully remove it and give 'Sponge Dog' a clean bill of health?
