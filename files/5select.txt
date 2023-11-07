@@ -1,3 +1,2 @@
 5SELECT
-Today, November 06
-Chicago's extraordinary past emerges from the waters of Lake Michigan.
+Today, November 07
