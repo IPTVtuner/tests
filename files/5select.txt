@@ -1,2 +1,3 @@
 5SELECT
 Today, November 08
+The finalists are tasked with recreating the legendary sword of King Charlemagne, the Joyeuse.
