@@ -1,3 +1,2 @@
 5SELECT
-Today, November 08
-The flagship of England's most notorious pirate, Sir Francis Drake, was packed with adventure, from witchcraft and mutiny to becoming the first English ship to circumnavigate the globe - by accident.
+Today, November 09
