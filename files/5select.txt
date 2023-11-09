@@ -1,3 +1,2 @@
 5SELECT
 Today, November 09
-Ben journeys to the freezing waters of Iceland to live with a former carpenter.
