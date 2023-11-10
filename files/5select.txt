@@ -1,2 +1,3 @@
 5SELECT
 Today, November 10
+Shopping from home.
