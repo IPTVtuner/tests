@@ -1,3 +1,2 @@
 5SELECT
 Today, November 11
-Four smiths forge handles in round one using titanium - before ultimately moving to their home forges to recreate the Horseman's Tabar and Hidden Dagger.
