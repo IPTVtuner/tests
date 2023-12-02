@@ -1,3 +1,3 @@
 5SELECT
 Today, December 02
-Tom and Liz face another obstacle.
+Shopping from home.
