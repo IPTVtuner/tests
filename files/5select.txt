@@ -1,2 +1,3 @@
 5SELECT
 Today, December 04
+Since the earliest civilisations, humans have needed walls to protect themselves. From rudimentary walls around early towns and cities to vast fortresses and castles, culminating in one of the greatest engineering triumphs of all time.
