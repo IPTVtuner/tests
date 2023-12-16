@@ -1,3 +1,2 @@
 5SELECT
 Today, December 16
-The Allied advance to Rome grinds to a halt in Italy's mountainous heartland.
