@@ -1,2 +1,3 @@
 5SELECT
 Today, December 16
+Documentary exploring the catastrophic 2019 volcanic eruption of White Island in New Zealand, which killed 22 people and left 26 more with life-changing injuries.
