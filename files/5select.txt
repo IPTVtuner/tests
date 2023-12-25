@@ -1,3 +1,2 @@
 5SELECT
 Today, December 25
-Entertainment programme.
