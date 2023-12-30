@@ -1,3 +1,2 @@
 5SELECT
 Today, December 30
-Bringing you the latest and best in programming entertainment.
