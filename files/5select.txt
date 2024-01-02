@@ -1,3 +1,2 @@
 5SELECT
 Today, January 02
-Sergeant Grimshawe is a retiring army training sergeant who is faced with possibly the worst group of national service recruits ever to have been called up.
