@@ -1,3 +1,2 @@
 5SELECT
 Today, January 24
-Rob Bell visits Bosworth Field, site of the decisive battle in 1485 that ended the Wars of the Roses and ushered in the Tudor dynasty.
