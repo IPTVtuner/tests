@@ -1,3 +1,2 @@
 5SELECT
 Today, January 27
-Shopping from home.
