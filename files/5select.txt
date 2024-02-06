@@ -1,3 +1,2 @@
 5SELECT
 Today, February 06
-Following a difficult first round of testing, the remaining two bladesmiths head home with only five days to forge the legendary Crusader Sword.
