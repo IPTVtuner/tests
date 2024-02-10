@@ -1,3 +1,2 @@
 5SELECT
 Today, February 10
-The beginnings of the conflict known as `The War to End All Wars', including the assassination of Archduke Franz Ferdinand of Austria in 1914.
