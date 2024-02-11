@@ -1,2 +1,3 @@
 5SELECT
 Today, February 11
+Shopping from home.
