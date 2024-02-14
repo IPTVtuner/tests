@@ -1,3 +1,3 @@
 5SELECT
 Today, February 14
-The bladesmiths must create a weapon in their signature style from a large pile of mixed metal that is welded together. Two return home to forge the mysterious Khanda.
+Four bladesmiths take an ordinary garden lawnmower and use its metal to make one of their signature blades. Two will make it to the final round where they have to build a Tabar.
