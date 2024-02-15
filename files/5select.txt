@@ -1,3 +1,3 @@
 5SELECT
 Today, February 15
-Documentary programme.
+When Louis Mountbatten was murdered by the IRA in 1979 he was lauded as a war hero and an elder statesman. However, as a military leader he was responsible for significant loss of life, as well as the poorly executed partition of India.
