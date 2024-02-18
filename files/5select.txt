@@ -1,3 +1,2 @@
 5SELECT
 Today, February 18
-Jane travels across Japan on an epic adventure. In Tokyo, she finds herself in the sumo ring, struggles to eat noodles using chopsticks and has a night out in a karaoke bar!
