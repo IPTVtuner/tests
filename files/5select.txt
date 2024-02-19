@@ -1,3 +1,2 @@
 5SELECT
 Today, February 19
-The Dovre line runs from Oslo to the northern wonderland of Trondheim.
