@@ -1,2 +1,3 @@
 5SELECT
 Today, February 22
+A revealing portrait of the Queen's daughter. Born into a world where men had the upper hand, Anne was leapfrogged by her younger brothers in the line of succession.
