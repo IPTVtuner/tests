@@ -1,2 +1,3 @@
 5SELECT
 Today, February 26
+Ruins across Europe tell the story of Blitzkrieg, a revolution in warfare which almost gave Hitler the chance to create his Thousand Year Reich.
