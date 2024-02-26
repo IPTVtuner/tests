@@ -1,3 +1,2 @@
 5SELECT
 Today, February 26
-From Tirano in Italy, this route spirals 1000 metres up the Alps.
