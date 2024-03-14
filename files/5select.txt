@@ -1,3 +1,2 @@
 5SELECT
 Today, March 14
-Jane McDonald is off on her travels again, but this time, she's taking short weekend breaks to Europe, UK and USA.
