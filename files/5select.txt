@@ -1,2 +1,3 @@
 5SELECT
 Today, March 15
+A look back on the moments that kicked up controversy in 1979. Monty Python caused a storm with `The Life of Brian', Margaret Thatcher became the UK's first female Prime Minister, and there was a vicious backlash against disco.
