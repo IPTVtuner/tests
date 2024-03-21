@@ -1,3 +1,2 @@
 5SELECT
 Today, March 21
-Jane goes back to her roots in York, on a crusade to discover the city's ghostly history.
