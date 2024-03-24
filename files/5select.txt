@@ -1,3 +1,2 @@
 5SELECT
 Today, March 24
-Colombo investigates the death of a famous gourmet and restaurant critic.
