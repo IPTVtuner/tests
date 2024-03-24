@@ -1,2 +1,3 @@
 5SELECT
-Today, March 23
+Today, March 24
+When a faulty repair caused a 747 to veer out of control in Japan causing the worst aircraft accident in aviation history, US investigators were refused access by Japanese authorities.
