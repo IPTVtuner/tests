@@ -1,3 +1,2 @@
 5SELECT
 Today, April 18
-Jane visits Kyoto, the cultural heart of Japan and former capital, where she experiences beautiful shrines and temples, atmospheric tea ceremonies and geishas dressed in exquisite kimonos.
