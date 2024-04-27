@@ -1,3 +1,2 @@
 5SELECT
 Today, April 27
-Documentary about the Fastnet Race sailing disaster when a once-in-a-generation storm took the lives of 21 people and triggered Britain's biggest peacetime rescue operation.
