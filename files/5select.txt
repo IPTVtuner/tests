@@ -1,3 +1,2 @@
 5SELECT
-Today, April 30
-Miraculously, everyone survives when a British Airways flight takes off and cockpit window breaks open.
+Today, May 01
