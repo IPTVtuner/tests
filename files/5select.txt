@@ -1,3 +1,2 @@
 5SELECT
 Today, May 02
-A plane carrying a group of children collided with a DHL cargo craft when an overstretched Zurich air traffic controller's equipment failed. 71 people died in the crash.
