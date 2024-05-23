@@ -1,3 +1,3 @@
 FailArmy
 Today, May 23
-Fails that may induce panic.
+Reaching the summit of failure.
