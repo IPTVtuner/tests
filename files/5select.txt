@@ -1,2 +1,3 @@
 5SELECT
 Today, May 28
+Episode reveals the little-known background to the attack from its inception to the missed opportunities that could have helped avert it.
