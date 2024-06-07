@@ -1,2 +1,3 @@
 5SELECT
 Today, June 07
+Four smiths must brave the frigid cold in the Arctic Forge as they recreate Inuit and Viking tools from giant blocks of ice for a chance to win $10,000.
