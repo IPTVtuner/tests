@@ -1,3 +1,3 @@
 FailArmy
 Today, June 12
-Fails that may induce panic.
+Cat and bird fails.
