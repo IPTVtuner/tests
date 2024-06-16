@@ -1,3 +1,2 @@
 5SELECT
 Today, June 16
-This documentary unravels the bizarre stories surrounding the murder of Anthony Ashley-Cooper, 10th Earl of Shaftesbury, and one of Britain's wealthiest men.
