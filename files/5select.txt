@@ -1,2 +1,3 @@
 5SELECT
 Today, June 21
+Rainwater blames Kayce for bodies found on the reservation.
