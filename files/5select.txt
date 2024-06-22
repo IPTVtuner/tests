@@ -1,3 +1,2 @@
 5SELECT
 Today, June 22
-Jessica Fletcher investigates the death of a private detective found floating in the swimming pool of her publisher.
