@@ -1,3 +1,3 @@
 5SELECT
 Today, June 25
-Four bladesmiths are tasked with forging a Saw Back machete out of steel tent stakes.
+Four smiths hit the fast track in a race to make a Damascus blade with the highest layer count; the remaining two have to recreate the Mesopotamian Sickle Sword.
