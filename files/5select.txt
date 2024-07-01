@@ -1,3 +1,2 @@
 5SELECT
 Today, July 01
-Ro's investigation begins in Whitby, where James Cook, future captain of HMB Endeavour, grew up as the son of a farm labourer.
