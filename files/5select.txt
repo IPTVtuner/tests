@@ -1,3 +1,2 @@
 5SELECT
 Today, July 03
-Enigmatic detective Adam Dalgliesh, a specialist in unusual murders, works to solve a series of intricate and mysterious crimes in 1970s England.
