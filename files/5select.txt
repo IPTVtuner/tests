@@ -1,3 +1,2 @@
 5SELECT
 Today, July 07
-The dishevelled detective sets out to solve an unusual double murder in which two men have apparently killed each other.
