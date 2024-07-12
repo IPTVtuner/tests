@@ -1,3 +1,2 @@
 5SELECT
 Today, July 12
-Nikita's father asked for his help with an extraordinary scientific experiment.
