@@ -1,3 +1,3 @@
 5SELECT
 Today, July 25
-Four bladesmiths must forge signature blades from different sizes of spring steel. Two smiths survive an intense round of testing and return home to recreate a Greek kopis.
+Four bladesmiths return to the Middle Ages, tasked with forging a Crusader's Dagger from a thick rod of W1 steel.
