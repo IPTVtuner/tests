@@ -1,3 +1,3 @@
 5SELECT
 Today, September 09
-Professor Alice Roberts uncovers the science being used by computer scientist Professor Brent Seales as he uses cutting-edge technology to read hundreds of carbonised scrolls buried in the eruption of Mount Vesuvius in the year 79 AD.
+In the shadow of Vesuvius lies an archaeological time capsule: a city and its people frozen in time. Dan Snow explores the incredible story of how Pompeii's treasures were discovered.
