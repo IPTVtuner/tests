@@ -1,3 +1,2 @@
 5SELECT
 Today, September 28
-Jessica Fletcher's cousin Emma, a dance-hall performer who bears a strong resemblance to the crime-writer herself, is forced to investigate the murder of a wealthy friend.
