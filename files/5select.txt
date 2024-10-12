@@ -1,3 +1,2 @@
 5SELECT
 Today, October 12
-In Egypt, Dara tackles compelling mysteries: how did the battle between Pharaohs and tomb raiders shape the evolution of the pyramids? And why did pyramids fail?
