@@ -1,2 +1,3 @@
 5SELECT
 Today, November 13
+A revealing novel published by a former student of Jessica's triggers a Cabot Cove murder.
