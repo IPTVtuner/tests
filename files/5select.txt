@@ -1,3 +1,2 @@
 5SELECT
 Today, November 15
-A Lhasa apso needs elaborate surgery, and a Shetland pony has a painful foot condition.
