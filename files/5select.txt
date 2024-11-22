@@ -1,3 +1,2 @@
 5SELECT
 Today, November 22
-Native Italian Annalisa is developing a forest hideaway on the fringes of society.
