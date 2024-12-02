@@ -1,3 +1,2 @@
 Dave
 Today, December 02
-Backtrace:
