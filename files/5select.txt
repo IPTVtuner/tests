@@ -1,3 +1,2 @@
 5SELECT
 Today, December 18
-Shopping from home.
