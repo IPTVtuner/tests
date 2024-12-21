@@ -1,3 +1,2 @@
 5SELECT
 Today, December 21
-It's spring in 1938, and James's parents are overjoyed when he's offered a position at his old mentor's forward-thinking practice in Glasgow.
