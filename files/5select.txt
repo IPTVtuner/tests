@@ -1,3 +1,2 @@
 5SELECT
 Today, December 29
-A Hollywood film composer and conductor murders a talented, young musician out of jealousy.
