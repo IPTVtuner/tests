@@ -1,2 +1,3 @@
 5SELECT
 Today, December 30
+News footage, videos and interviews reveal how Britain was frozen by a brutal weather system in 2018. During the cold snap, temperatures plunged to -10 degrees Celsius and the country came to a virtual standstill.
