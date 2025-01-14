@@ -1,3 +1,2 @@
 Yesterday
 Today, January 14
-Backtrace:
