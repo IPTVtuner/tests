@@ -1,3 +1,2 @@
 5SELECT
 Today, January 18
-The development of the world's first cruise missile.
