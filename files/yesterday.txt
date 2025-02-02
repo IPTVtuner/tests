@@ -1,3 +1,2 @@
 Yesterday
 Today, February 02
-Backtrace:
