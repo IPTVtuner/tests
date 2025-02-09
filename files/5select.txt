@@ -1,3 +1,3 @@
 5SELECT
 Today, February 09
-An exploration into the design and construction of the original `jumbo jet', the Boeing 747 and the race to meet an ambitious deadline. Engineers and pilots recall the challenges they faced and dramatic stories of the plane's fledgling flights.
+The social history of the Boeing 747's 50-year working life, from 1970 to the present day. The impact the 747 had in creating long haul is examined, taking a nostalgic journey from the glamorous age of the jet set to the no-frills travel of today.
