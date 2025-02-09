@@ -1,3 +1,3 @@
 5SELECT
 Today, February 09
-The designers, pilots and passengers tell the incredible story of how the Anglo-French Concorde saw off competition to become the world's only supersonic airliner. It remains unmatched to this day and was the undisputed queen of the skies.
+An exploration into the design and construction of the original `jumbo jet', the Boeing 747 and the race to meet an ambitious deadline. Engineers and pilots recall the challenges they faced and dramatic stories of the plane's fledgling flights.
