@@ -1,2 +1,3 @@
 5SELECT
 Today, February 14
+Maxine is contrite and determines to repay Judy for the damage caused to the Halfway House by her friends.
