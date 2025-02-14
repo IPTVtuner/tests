@@ -1,3 +1,3 @@
 5SELECT
 Today, February 14
-Columbo investigates the case of an unfaithful wife who was murdered when she refused to be blackmailed.
+The West Highland Line wends its way from Glasgow to the Isle of Skye.
