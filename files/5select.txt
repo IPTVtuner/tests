@@ -1,3 +1,2 @@
 5SELECT
 Today, February 22
-In Germany's Hurtgen Forest, the team looks for traces of a long and bloody battle.
