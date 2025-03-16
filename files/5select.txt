@@ -1,3 +1,2 @@
 5SELECT
 Today, March 16
-A seemingly perfect alibi brings Lt Columbo to the home of an eccentric artist suspected of killing his ex-wife.
