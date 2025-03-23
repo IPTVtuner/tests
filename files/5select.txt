@@ -1,3 +1,2 @@
 5SELECT
 Today, March 23
-The dishevelled detective investigates the apparent suicide of a notorious racketeer who was facing an indictment.
