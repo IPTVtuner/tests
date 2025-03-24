@@ -1,3 +1,3 @@
 5SELECT
 Today, March 24
-A trip on New Zealand's famous Northern Explorer.
+Pam starts off in the picturesque village of Bourton-on-the-Water. It's a place where the River Windrush flows through the centre of the village.
