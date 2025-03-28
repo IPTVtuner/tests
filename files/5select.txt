@@ -1,3 +1,2 @@
 5SELECT
 Today, March 28
-The West Highland Line wends its way from Glasgow to the Isle of Skye.
