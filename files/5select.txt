@@ -1,3 +1,2 @@
 5SELECT
 Today, March 29
-Dave has always wanted to kayak in the waters of the beautiful National Park lakes with his best mate. Unfortunately, the small problem they face is that neither of them knows how to kayak.
