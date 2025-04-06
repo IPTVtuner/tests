@@ -1,3 +1,3 @@
 5SELECT
 Today, April 06
-A German physics professor invents the X-ray and takes an image of his wife's hand, and in years to come, the invention is used in medicine and other fields.
+The world is forever changed when Karl Benz creates the first petrol-driven car and when Henry Ford revolutionises the production process a few decades later.
