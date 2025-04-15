@@ -1,2 +1,3 @@
 5SELECT
 Today, April 15
+When Jessica is called to London to rewrite the stage adaptation of her novel, she must prove her actress friend innocent of killing a producer.
