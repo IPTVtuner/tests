@@ -1,3 +1,2 @@
 5SELECT
 Today, May 15
-Liz hosts a pub quiz for the pensioners in the community. Quiz master Mike, a retired maths teacher, is on hand to make sure there's no cheating!
