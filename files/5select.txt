@@ -1,2 +1,3 @@
 5SELECT
 Today, May 17
+Shopping from home.
