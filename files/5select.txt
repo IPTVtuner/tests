@@ -1,2 +1,3 @@
 5SELECT
 Today, May 28
+This immersive new series follows Ben and Dwayne Fields as they relive the trials and tribulations of the race to the pole at the beginning of the 20th Century.
