@@ -1,3 +1,9 @@
 More 4
 Today, June 28
-For the third visit of the week, the B&B'ers head to the Torcroft Boutique BandB in Torquay, Devon, where Europhiles Phil and Sharon Hobson hope their added extras will win over their rivals.
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

@@ -1,3 +1,9 @@
 HGTV
 Today, June 28
-Agata and David live in Benfleet, Essex. They were initially attracted to their lovely new family home because of its massive garden. They thought it would be an ideal space for their autistic son Franik to enjoy being outside. However, they soon found that the size and awkward L-shape was a problem, because it was difficult to keep an eye on him. They are constantly concerned that Franik could hurt himself.
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

@@ -1,3 +1,9 @@
 The Pet Collective
 Today, June 28
-The Pet Collective is home to the top trending clips, most entertaining memes, and funniest animal videos online.
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

@@ -1,3 +1,9 @@
 Sky Arts
 Today, June 28
-An adulterous magazine editor launches a competition for a story involving the perfect murder. But life soon mirrors art.
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

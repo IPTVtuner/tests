@@ -1,3 +1,9 @@
 5SELECT
 Today, June 28
-After a nail-biting opener, Carol teams up with Scarlett. Can their old alliance spark a winning streak? Meanwhile, Sally reunites with Stephen, but will their chemistry help them decode tonight's brain-teasers?
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

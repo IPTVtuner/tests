@@ -1,3 +1,9 @@
 E4 Extra
 Today, June 28
-It's the morning of the wedding and Ted attempts to help a stressed-out Barney decide which suit to wear. Meanwhile, Lily thinks that Robin isn't treating the most important day of her life with the significance it deserves.
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

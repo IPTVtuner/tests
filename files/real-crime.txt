@@ -1,3 +1,9 @@
 Real Crime
 Today, June 28
-Investigators seek information when the Boston community is hit by a crime wave.
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

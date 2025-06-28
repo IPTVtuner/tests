@@ -1,3 +1,9 @@
 Quest
 Today, June 28
-Mike and Ed team up again to buy, restore and sell on classic cars, but this time Mike gets to go to Europe to pick up his cars. First he's off to Germany in search of a Mercedes.
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

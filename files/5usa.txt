@@ -1,3 +1,9 @@
 5USA
 Today, June 28
-Frank faces a backlash after an officer's body camera malfunctions during an altercation with a civilian.
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

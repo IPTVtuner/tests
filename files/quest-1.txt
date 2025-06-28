@@ -1,3 +1,9 @@
 Quest +1
 Today, June 28
-The 2002 Mercedes Benz E55 AMG, the pinnacle of luxury and supercar performance. Can Mike find profit in a neglected example as Ant tackles a major service?
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

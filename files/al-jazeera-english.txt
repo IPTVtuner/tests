@@ -1,3 +1,9 @@
 Al Jazeera English
 Today, June 28
-Up-to-date news and analysis from around the world.
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

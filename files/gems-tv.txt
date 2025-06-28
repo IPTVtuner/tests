@@ -1,3 +1,9 @@
 Gems TV
 Today, June 28
-We've got something brand-new for you this hour! Queensland Opal: need we say more? Join us live for the details!
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
